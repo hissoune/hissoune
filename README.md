@@ -6,8 +6,7 @@
 
 ## WAKA TIME STATS :- ![wakatime](https://wakatime.com/badge/user/e7a0b101-5e66-473c-82c1-35c9676ad3f3.svg)
 
-### My WEBSITE
-[![My Portfolio](https://img.shields.io/badge/Portfolio-My%20Web%20Site-green)](https://protfolio-ed.vercel.app/)
+
 
 <a href="https://github.com/hissoune" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/github/followers/hissoune?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>&nbsp;<p align="left"> <img src="https://komarev.com/ghpvc/?username=hissoune&label=Profile%20views&color=0e75b6&style=flat" alt="hissoune" /> </p>
 
